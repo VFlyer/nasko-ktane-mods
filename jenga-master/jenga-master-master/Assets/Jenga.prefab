@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 23906088184011268}
   - component: {fileID: 114465748923525444}
   - component: {fileID: 114612182481698362}
+  - component: {fileID: 114884933303136550}
   m_Layer: 0
   m_Name: JengaPiece (4)
   m_TagString: Untagged
@@ -80,6 +81,7 @@ GameObject:
   - component: {fileID: 23823230909753482}
   - component: {fileID: 114731662714762012}
   - component: {fileID: 114057959905548782}
+  - component: {fileID: 114874615487969842}
   m_Layer: 0
   m_Name: JengaPiece (11)
   m_TagString: Untagged
@@ -117,6 +119,7 @@ GameObject:
   - component: {fileID: 23289541412824478}
   - component: {fileID: 114112649329695270}
   - component: {fileID: 114338480003953908}
+  - component: {fileID: 114823063186451192}
   m_Layer: 0
   m_Name: JengaPiece (12)
   m_TagString: Untagged
@@ -171,6 +174,7 @@ GameObject:
   - component: {fileID: 23279999844059382}
   - component: {fileID: 114245412154824312}
   - component: {fileID: 114544832672159142}
+  - component: {fileID: 114788733381417604}
   m_Layer: 0
   m_Name: JengaPiece (15)
   m_TagString: Untagged
@@ -293,6 +297,7 @@ GameObject:
   - component: {fileID: 23649969852985884}
   - component: {fileID: 114803332667248624}
   - component: {fileID: 114166137396463896}
+  - component: {fileID: 114067816852236626}
   m_Layer: 0
   m_Name: JengaPiece (13)
   m_TagString: Untagged
@@ -536,6 +541,7 @@ GameObject:
   - component: {fileID: 23986555120104622}
   - component: {fileID: 114691529338794124}
   - component: {fileID: 114863541276073940}
+  - component: {fileID: 114870157690287902}
   m_Layer: 0
   m_Name: JengaPiece (3)
   m_TagString: Untagged
@@ -847,6 +853,7 @@ GameObject:
   - component: {fileID: 23104811938549558}
   - component: {fileID: 114158032300026534}
   - component: {fileID: 114698576499750290}
+  - component: {fileID: 114449865733070054}
   m_Layer: 0
   m_Name: JengaPiece (10)
   m_TagString: Untagged
@@ -903,6 +910,7 @@ GameObject:
   - component: {fileID: 23831484341096284}
   - component: {fileID: 114307117782846334}
   - component: {fileID: 114447912303951524}
+  - component: {fileID: 114387400157070444}
   m_Layer: 0
   m_Name: JengaPiece (19)
   m_TagString: Untagged
@@ -923,6 +931,7 @@ GameObject:
   - component: {fileID: 23514996414811582}
   - component: {fileID: 114807549622059618}
   - component: {fileID: 114458947747941494}
+  - component: {fileID: 114415909204003894}
   m_Layer: 0
   m_Name: JengaPiece (2)
   m_TagString: Untagged
@@ -943,6 +952,7 @@ GameObject:
   - component: {fileID: 23076729544369978}
   - component: {fileID: 114976311149071072}
   - component: {fileID: 114842963955081444}
+  - component: {fileID: 114282754337055918}
   m_Layer: 0
   m_Name: JengaPiece (1)
   m_TagString: Untagged
@@ -1033,6 +1043,7 @@ GameObject:
   - component: {fileID: 23506681492282428}
   - component: {fileID: 114021273981243038}
   - component: {fileID: 114928234393664430}
+  - component: {fileID: 114199208142128534}
   m_Layer: 0
   m_Name: JengaPiece (9)
   m_TagString: Untagged
@@ -1087,6 +1098,7 @@ GameObject:
   - component: {fileID: 23072508684964480}
   - component: {fileID: 114487721365267520}
   - component: {fileID: 114622959764061962}
+  - component: {fileID: 114533215156704444}
   m_Layer: 0
   m_Name: JengaPiece (16)
   m_TagString: Untagged
@@ -1143,6 +1155,7 @@ GameObject:
   - component: {fileID: 23122901522055608}
   - component: {fileID: 114952524115383326}
   - component: {fileID: 114988189683945422}
+  - component: {fileID: 114736512835234290}
   m_Layer: 0
   m_Name: JengaPiece
   m_TagString: Untagged
@@ -1163,6 +1176,7 @@ GameObject:
   - component: {fileID: 23505125803821240}
   - component: {fileID: 114996542373612516}
   - component: {fileID: 114066979671366882}
+  - component: {fileID: 114102303676134228}
   m_Layer: 0
   m_Name: JengaPiece (5)
   m_TagString: Untagged
@@ -1219,6 +1233,7 @@ GameObject:
   - component: {fileID: 23770015444443416}
   - component: {fileID: 114619748019896108}
   - component: {fileID: 114579855784234890}
+  - component: {fileID: 114429722517296500}
   m_Layer: 0
   m_Name: JengaPiece (18)
   m_TagString: Untagged
@@ -1275,6 +1290,7 @@ GameObject:
   - component: {fileID: 23361528741113222}
   - component: {fileID: 114687467853529476}
   - component: {fileID: 114859815288033078}
+  - component: {fileID: 114528738434526508}
   m_Layer: 0
   m_Name: JengaPiece (8)
   m_TagString: Untagged
@@ -1417,6 +1433,7 @@ GameObject:
   - component: {fileID: 23547757266233934}
   - component: {fileID: 114201333783761654}
   - component: {fileID: 114388796509258514}
+  - component: {fileID: 114812798871715880}
   m_Layer: 0
   m_Name: JengaPiece (7)
   m_TagString: Untagged
@@ -1471,6 +1488,7 @@ GameObject:
   - component: {fileID: 23562290277564524}
   - component: {fileID: 114692485135579196}
   - component: {fileID: 114195754439446664}
+  - component: {fileID: 114304020179857792}
   m_Layer: 0
   m_Name: JengaPiece (6)
   m_TagString: Untagged
@@ -1508,6 +1526,7 @@ GameObject:
   - component: {fileID: 23290114692270458}
   - component: {fileID: 114764645250151706}
   - component: {fileID: 114935945136491634}
+  - component: {fileID: 114116374175609798}
   m_Layer: 0
   m_Name: JengaPiece (17)
   m_TagString: Untagged
@@ -1648,6 +1667,7 @@ GameObject:
   - component: {fileID: 23238886082167004}
   - component: {fileID: 114222647022200296}
   - component: {fileID: 114405760662115650}
+  - component: {fileID: 114155451784036680}
   m_Layer: 0
   m_Name: JengaPiece (14)
   m_TagString: Untagged
@@ -1730,7 +1750,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1648931866858278}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -8.985, z: 0}
+  m_LocalPosition: {x: 0, y: -9.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -1795,7 +1815,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1720502915798082}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.1183, z: -0.045}
+  m_LocalPosition: {x: 0.003, y: 0.106, z: -0.045}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4127351172135502}
@@ -1889,7 +1909,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1035554234219370}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.037300006, y: 0.1402, z: -0.012000009}
+  m_LocalPosition: {x: 0.037, y: 0.126, z: -0.012}
   m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4732934684025026}
@@ -1905,7 +1925,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1386546266113952}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -1931,7 +1951,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1076821597853926}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.037300006, y: 0.1867, z: -0.012000009}
+  m_LocalPosition: {x: 0.037, y: 0.166, z: -0.012}
   m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4639542689420430}
@@ -1947,7 +1967,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1910889643726370}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.2085, z: 0.021999992}
+  m_LocalPosition: {x: 0.003, y: 0.186, z: 0.022}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4028455421875590}
@@ -1989,7 +2009,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1925505311785078}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -4.505, z: 0}
+  m_LocalPosition: {x: 0, y: -5.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -2028,7 +2048,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1666393253219288}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.026, z: -0.045}
+  m_LocalPosition: {x: 0.003, y: 0.026, z: -0.045}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4943663247750464}
@@ -2083,7 +2103,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1814947838871426}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.037300006, y: 0.0965, z: -0.012000009}
+  m_LocalPosition: {x: 0.037, y: 0.086, z: -0.012}
   m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4807964826648362}
@@ -2099,7 +2119,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1533444157283164}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.016666453, y: -7.83, z: 0.006000102}
+  m_LocalPosition: {x: -0.016666453, y: -8.2, z: 0.006000102}
   m_LocalScale: {x: 3.3333335, y: 1, z: 0.3}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -2125,8 +2145,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1712954181836124}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0313, y: 0.2295, z: -0.012000006}
-  m_LocalScale: {x: 0.03, y: 0.02, z: 0.099999994}
+  m_LocalPosition: {x: -0.0313, y: 0.206, z: -0.012}
+  m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4991803427285740}
   - {fileID: 4112038525392750}
@@ -2206,7 +2226,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1055149084515668}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.1638, z: -0.045}
+  m_LocalPosition: {x: 0.003, y: 0.146, z: -0.045}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4893802827698332}
@@ -2222,7 +2242,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1725851951841068}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.168, y: 0, z: -0.137}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4568588152339738}
@@ -2239,7 +2259,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1001211271719266}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.0736, z: -0.045}
+  m_LocalPosition: {x: 0.003, y: 0.066, z: -0.045}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4072905102990164}
@@ -2281,7 +2301,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1670936065582792}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.0736, z: 0.021999992}
+  m_LocalPosition: {x: 0.003, y: 0.066, z: 0.022}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4142332240894206}
@@ -2349,7 +2369,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1287523015950248}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0373, y: 0.05, z: -0.012000009}
+  m_LocalPosition: {x: 0.037, y: 0.046, z: -0.012}
   m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4653192844122072}
@@ -2443,7 +2463,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1510826470788800}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0313, y: 0.05, z: -0.012000009}
+  m_LocalPosition: {x: -0.0313, y: 0.046, z: -0.012}
   m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4181215995672690}
@@ -2506,7 +2526,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1159857800030906}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.1638, z: 0.021999992}
+  m_LocalPosition: {x: 0.003, y: 0.146, z: 0.022}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4253023654184552}
@@ -2561,7 +2581,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1685222268596184}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.016666453, y: -3.34, z: 0.006000102}
+  m_LocalPosition: {x: -0.016666453, y: -4.2, z: 0.006000102}
   m_LocalScale: {x: 3.3333335, y: 1, z: 0.3}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -2626,7 +2646,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1641709279251510}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.2085, z: -0.045}
+  m_LocalPosition: {x: 0.003, y: 0.186, z: -0.045}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4611109650244044}
@@ -2678,7 +2698,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1964886450025686}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0313, y: 0.1867, z: -0.012000009}
+  m_LocalPosition: {x: -0.0313, y: 0.166, z: -0.012}
   m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4351618256376566}
@@ -2720,8 +2740,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1500781904963796}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.037300006, y: 0.2295, z: -0.012000006}
-  m_LocalScale: {x: 0.03, y: 0.02, z: 0.099999994}
+  m_LocalPosition: {x: 0.037, y: 0.206, z: -0.012}
+  m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4496531126671146}
   - {fileID: 4397198356717598}
@@ -2788,7 +2808,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1149118352252898}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -6.6750007, z: 0}
+  m_LocalPosition: {x: 0, y: -7.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -2801,7 +2821,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1595746236416134}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.1183, z: 0.021999992}
+  m_LocalPosition: {x: 0.003, y: 0.106, z: 0.022}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4321289828613080}
@@ -2869,7 +2889,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1492161873006638}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -2.1700003, z: 0}
+  m_LocalPosition: {x: 0, y: -3.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -2882,7 +2902,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1519432766069670}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000006, y: 0.026, z: 0.021999992}
+  m_LocalPosition: {x: 0.003, y: 0.026, z: 0.022}
   m_LocalScale: {x: 0.1, y: 0.02, z: 0.03}
   m_Children:
   - {fileID: 4794555508575320}
@@ -2898,7 +2918,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1384292176205120}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.016666453, y: -1.0799997, z: 0.006000102}
+  m_LocalPosition: {x: -0.016666453, y: -2.2, z: 0.006000102}
   m_LocalScale: {x: 3.3333335, y: 1, z: 0.3}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -2911,7 +2931,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1889917887849490}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0313, y: 0.0965, z: -0.012000009}
+  m_LocalPosition: {x: -0.0313, y: 0.086, z: -0.012}
   m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4518328906104962}
@@ -2966,7 +2986,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1014829073083586}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.016666453, y: -5.57, z: 0.006000102}
+  m_LocalPosition: {x: -0.016666453, y: -6.2, z: 0.006000102}
   m_LocalScale: {x: 3.3333335, y: 1, z: 0.3}
   m_Children: []
   m_Father: {fileID: 4684871972280786}
@@ -3018,7 +3038,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1462861820837702}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0313, y: 0.1402, z: -0.012000009}
+  m_LocalPosition: {x: -0.0313, y: 0.126, z: -0.012}
   m_LocalScale: {x: 0.03, y: 0.02, z: 0.1}
   m_Children:
   - {fileID: 4383551745957216}
@@ -4890,7 +4910,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114228567885690106}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65388790611604008}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -4920,7 +4941,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114039869017267482
 MonoBehaviour:
@@ -4998,10 +5019,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8206c1d32359f404cb5e3d320978aae1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  JengaClick: {fileID: 8300000, guid: 0c36efccc2e9f1846988820970f26d0f, type: 3}
-  Audio: {fileID: 114471619658854762}
+  mAudio: {fileID: 114471619658854762}
   BombModule: {fileID: 114287413127335874}
-  JengaPiece:
+  JengaPieceSelectable:
   - {fileID: 114952524115383326}
   - {fileID: 114976311149071072}
   - {fileID: 114807549622059618}
@@ -5022,70 +5042,28 @@ MonoBehaviour:
   - {fileID: 114764645250151706}
   - {fileID: 114619748019896108}
   - {fileID: 114307117782846334}
-  JengaSticker1:
-  - {fileID: 1894558276565024}
-  - {fileID: 1344298599662516}
-  - {fileID: 1077240923096428}
-  - {fileID: 1634008321438272}
-  - {fileID: 1171430264918450}
-  - {fileID: 1960170592143968}
-  - {fileID: 1977153135015982}
-  - {fileID: 1914928243102838}
-  - {fileID: 1178618910493284}
-  - {fileID: 1347225728564228}
-  - {fileID: 1263501653596890}
-  - {fileID: 1321405848913122}
-  - {fileID: 1622209961591454}
-  - {fileID: 1961857440165280}
-  - {fileID: 1812009894453148}
-  - {fileID: 1498161402164486}
-  - {fileID: 1011199914312566}
-  - {fileID: 1780798393104510}
-  - {fileID: 1719880359686706}
-  - {fileID: 1309359981807748}
-  JengaSticker2:
-  - {fileID: 1142465908721310}
-  - {fileID: 1951653521719066}
-  - {fileID: 1801679694358584}
-  - {fileID: 1154571719713336}
-  - {fileID: 1322425587926792}
-  - {fileID: 1590255952660258}
-  - {fileID: 1066029060054380}
-  - {fileID: 1411075162104102}
-  - {fileID: 1728931153379326}
-  - {fileID: 1350385613415900}
-  - {fileID: 1546704530154102}
-  - {fileID: 1656133181197324}
-  - {fileID: 1969491532525898}
-  - {fileID: 1827257460077088}
-  - {fileID: 1299005719871604}
-  - {fileID: 1103843815487946}
-  - {fileID: 1940899536804436}
-  - {fileID: 1234014706432144}
-  - {fileID: 1200176405908552}
-  - {fileID: 1432958539482172}
-  TheJengaPiece:
-  - {fileID: 1666393253219288}
-  - {fileID: 1519432766069670}
-  - {fileID: 1510826470788800}
-  - {fileID: 1287523015950248}
-  - {fileID: 1001211271719266}
-  - {fileID: 1670936065582792}
-  - {fileID: 1889917887849490}
-  - {fileID: 1814947838871426}
-  - {fileID: 1720502915798082}
-  - {fileID: 1595746236416134}
-  - {fileID: 1462861820837702}
-  - {fileID: 1035554234219370}
-  - {fileID: 1055149084515668}
-  - {fileID: 1159857800030906}
-  - {fileID: 1964886450025686}
-  - {fileID: 1076821597853926}
-  - {fileID: 1641709279251510}
-  - {fileID: 1910889643726370}
-  - {fileID: 1712954181836124}
-  - {fileID: 1500781904963796}
-  Characters:
+  jengaBlockCompact:
+  - {fileID: 114736512835234290}
+  - {fileID: 114282754337055918}
+  - {fileID: 114415909204003894}
+  - {fileID: 114870157690287902}
+  - {fileID: 114884933303136550}
+  - {fileID: 114102303676134228}
+  - {fileID: 114304020179857792}
+  - {fileID: 114812798871715880}
+  - {fileID: 114528738434526508}
+  - {fileID: 114199208142128534}
+  - {fileID: 114449865733070054}
+  - {fileID: 114874615487969842}
+  - {fileID: 114823063186451192}
+  - {fileID: 114067816852236626}
+  - {fileID: 114155451784036680}
+  - {fileID: 114788733381417604}
+  - {fileID: 114533215156704444}
+  - {fileID: 114116374175609798}
+  - {fileID: 114429722517296500}
+  - {fileID: 114387400157070444}
+  characters:
   - {fileID: 21300000, guid: c12df82a9ac5fe5428616474de7723a8, type: 3}
   - {fileID: 21300000, guid: 6f19623b60ba804418d0bd0344640bb6, type: 3}
   - {fileID: 21300000, guid: 5c0ec292f11a44c4da10f0b538fa5d22, type: 3}
@@ -5106,7 +5084,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 61b83c6f930dfc743998530cf67bcf9e, type: 3}
   - {fileID: 21300000, guid: bb44b0b9a7e2c074abfb46b0f8d30fb1, type: 3}
   - {fileID: 21300000, guid: cd6e6c38e5476774c8be6b7d1bc93615, type: 3}
-  correct: 0
 --- !u!114 &114066979671366882
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5120,6 +5097,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - KT/Mobile/Diffuse
+--- !u!114 &114067816852236626
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1159857800030906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212078334980827702}
+  sticker2: {fileID: 212905927282600370}
+  jengaBlock: {fileID: 1159857800030906}
 --- !u!114 &114068329093241800
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5146,6 +5137,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - Sprites/Default
+--- !u!114 &114102303676134228
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1670936065582792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212135115434359596}
+  sticker2: {fileID: 212800500889544454}
+  jengaBlock: {fileID: 1670936065582792}
 --- !u!114 &114112649329695270
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5162,7 +5167,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114259867129244350}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65603923053179958}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -5179,8 +5185,22 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
+--- !u!114 &114116374175609798
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1910889643726370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212388249931212124}
+  sticker2: {fileID: 212645706521404268}
+  jengaBlock: {fileID: 1910889643726370}
 --- !u!114 &114143621202267040
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5207,6 +5227,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - Sprites/Default
+--- !u!114 &114155451784036680
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1964886450025686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212196514427508858}
+  sticker2: {fileID: 212166570275145322}
+  jengaBlock: {fileID: 1964886450025686}
 --- !u!114 &114158032300026534
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5223,7 +5257,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114385573605706812}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65625602865898722}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -5266,7 +5301,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114166137396463896
 MonoBehaviour:
@@ -5305,6 +5340,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - KT/Mobile/Diffuse
+--- !u!114 &114199208142128534
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1595746236416134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212254151758867326}
+  sticker2: {fileID: 212838912218423490}
+  jengaBlock: {fileID: 1595746236416134}
 --- !u!114 &114201333783761654
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5321,7 +5370,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114784613991570902}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65712112837770366}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -5390,7 +5440,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114222647022200296
 MonoBehaviour:
@@ -5408,7 +5458,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114922510079191624}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65994762816925522}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -5425,7 +5476,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114245412154824312
 MonoBehaviour:
@@ -5443,7 +5494,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114946212152029848}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65507402094262258}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -5460,7 +5512,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114259867129244350
 MonoBehaviour:
@@ -5473,7 +5525,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114266582531684480
 MonoBehaviour:
@@ -5486,7 +5538,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114270182842933318
 MonoBehaviour:
@@ -5499,7 +5551,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114273448872848836
 MonoBehaviour:
@@ -5540,6 +5592,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - Sprites/Default
+--- !u!114 &114282754337055918
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1519432766069670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212940260322732758}
+  sticker2: {fileID: 212808770654209600}
+  jengaBlock: {fileID: 1519432766069670}
 --- !u!114 &114287413127335874
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5567,6 +5633,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - Sprites/Default
+--- !u!114 &114304020179857792
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1889917887849490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212567288247159220}
+  sticker2: {fileID: 212296673996916124}
+  jengaBlock: {fileID: 1889917887849490}
 --- !u!114 &114307117782846334
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5583,7 +5663,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114166065374055662}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65251479568305946}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -5665,7 +5746,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114372928926290624
 MonoBehaviour:
@@ -5691,7 +5772,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114385573605706812
 MonoBehaviour:
@@ -5704,7 +5785,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114387089045196402
 MonoBehaviour:
@@ -5717,6 +5798,20 @@ MonoBehaviour:
   m_Script: {fileID: -381104716, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114387400157070444
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1500781904963796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212142990452396036}
+  sticker2: {fileID: 212122546686719958}
+  jengaBlock: {fileID: 1500781904963796}
 --- !u!114 &114388796509258514
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5756,6 +5851,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - KT/Mobile/Diffuse
+--- !u!114 &114415909204003894
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510826470788800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212989108158196496}
+  sticker2: {fileID: 212828910788945024}
+  jengaBlock: {fileID: 1510826470788800}
 --- !u!114 &114426520962338416
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5769,6 +5878,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - KT/Mobile/Diffuse
+--- !u!114 &114429722517296500
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1712954181836124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212600048362644010}
+  sticker2: {fileID: 212823880543295214}
+  jengaBlock: {fileID: 1712954181836124}
 --- !u!114 &114431732319890820
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5808,6 +5931,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - KT/Mobile/Diffuse
+--- !u!114 &114449865733070054
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1462861820837702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212885257609680428}
+  sticker2: {fileID: 212601936501905996}
+  jengaBlock: {fileID: 1462861820837702}
 --- !u!114 &114452087090976808
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5845,7 +5982,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114464204029086988
 MonoBehaviour:
@@ -5876,7 +6013,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114113946478147084}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65306076287831690}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -5909,7 +6047,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114373890220845650}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65092692223060788}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -5928,6 +6067,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - Sprites/Default
+--- !u!114 &114528738434526508
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1720502915798082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212319922341330366}
+  sticker2: {fileID: 212984368636647826}
+  jengaBlock: {fileID: 1720502915798082}
+--- !u!114 &114533215156704444
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1641709279251510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212683013463362402}
+  sticker2: {fileID: 212061643874556714}
+  jengaBlock: {fileID: 1641709279251510}
 --- !u!114 &114533765622281290
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6004,7 +6171,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114619748019896108
 MonoBehaviour:
@@ -6022,7 +6189,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114038571632356386}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65671757768208292}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -6151,7 +6319,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114614228012111924}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65014154959081488}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -6173,7 +6342,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114807342971953592}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65921797862108878}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -6195,7 +6365,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114838214833962504}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65643640920251718}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -6243,12 +6414,27 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114769384520681358}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65429039106652798}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
   ForceSelectionHighlight: 0
   ForceInteractionHighlight: 0
+--- !u!114 &114736512835234290
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1666393253219288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212908780372928490}
+  sticker2: {fileID: 212992746389800488}
+  jengaBlock: {fileID: 1666393253219288}
 --- !u!114 &114764645250151706
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6265,7 +6451,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114463219420061954}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65026304242100760}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -6282,7 +6469,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114771853913702810
 MonoBehaviour:
@@ -6308,8 +6495,22 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
+--- !u!114 &114788733381417604
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1076821597853926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212849261322752436}
+  sticker2: {fileID: 212624613615175774}
+  jengaBlock: {fileID: 1076821597853926}
 --- !u!114 &114789860589669936
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6339,7 +6540,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114362916529031006}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65093077580973948}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -6356,7 +6558,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114807549622059618
 MonoBehaviour:
@@ -6374,12 +6576,27 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114221996006994706}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65616390040471032}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
   ForceSelectionHighlight: 0
   ForceInteractionHighlight: 0
+--- !u!114 &114812798871715880
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1814947838871426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212966017885669194}
+  sticker2: {fileID: 212123177822007724}
+  jengaBlock: {fileID: 1814947838871426}
 --- !u!114 &114821283436812074
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6393,6 +6610,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - Sprites/Default
+--- !u!114 &114823063186451192
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1055149084515668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212031988348083178}
+  sticker2: {fileID: 212915538635811268}
+  jengaBlock: {fileID: 1055149084515668}
 --- !u!114 &114838214833962504
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6404,7 +6635,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114842963955081444
 MonoBehaviour:
@@ -6458,6 +6689,48 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - KT/Mobile/Diffuse
+--- !u!114 &114870157690287902
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1287523015950248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212936777673132758}
+  sticker2: {fileID: 212410589899139014}
+  jengaBlock: {fileID: 1287523015950248}
+--- !u!114 &114874615487969842
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1035554234219370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212891571566892466}
+  sticker2: {fileID: 212308294186026934}
+  jengaBlock: {fileID: 1035554234219370}
+--- !u!114 &114884933303136550
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1001211271719266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b342cd27379384c4098367070e096124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sticker1: {fileID: 212354407241657666}
+  sticker2: {fileID: 212067284527381040}
+  jengaBlock: {fileID: 1001211271719266}
 --- !u!114 &114911672528711822
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6508,7 +6781,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114928234393664430
 MonoBehaviour:
@@ -6560,7 +6833,7 @@ MonoBehaviour:
   m_Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HighlightScale: {x: 1, y: 1, z: 1}
+  HighlightScale: {x: 1.2, y: 0.5, z: 1.1}
   OutlineAmount: 0
 --- !u!114 &114946954823175908
 MonoBehaviour:
@@ -6591,7 +6864,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114270182842933318}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65556468047749336}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -6665,7 +6939,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114266582531684480}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65889111978179494}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
@@ -6700,7 +6975,8 @@ MonoBehaviour:
   IsPassThrough: 0
   ChildRowLength: 0
   Highlight: {fileID: 114259564609015972}
-  SelectableColliders: []
+  SelectableColliders:
+  - {fileID: 65840469955176610}
   DefaultSelectableIndex: 0
   AllowSelectionWrapX: 0
   AllowSelectionWrapY: 0
